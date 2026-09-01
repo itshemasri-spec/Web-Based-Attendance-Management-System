@@ -1,0 +1,8 @@
+{
+  "name": "college/online-attendance-system",
+  "description": "Web-based Online Attendance System using PHP and MySQL",
+  "type": "project",
+  "require": {
+    "phpoffice/phpspreadsheet": "^2.1"
+  }
+}
